@@ -13,7 +13,9 @@ QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Lear
 
 <!-- **Authors:** -->
 
-_**Fanqi Wan, Weizhou Shen, Shengyi Liao, Yingcheng Shi, Chenliang Li, Ziyi Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan**_
+_**Fanqi Wan, Weizhou Shen, Shengyi Liao, Yingcheng Shi, Chenliang Li,**_
+
+_**Ziyi Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan**_
 
 
 <!-- **Affiliations:** -->
