@@ -6,7 +6,7 @@
 QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning
 -----------------------------
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.17667-b31b1b.svg)](https://arxiv.org/abs/2505.17667)
 [![GitHub](https://img.shields.io/badge/GitHub-QwenLongL1-4b32c3?logo=github)](https://github.com/Tongyi-Zhiwen/QwenLong-L1)
 [![ModelScope](https://img.shields.io/badge/🤖%20ModelScope-purple)](https://modelscope.cn/models/iic/QwenLong-L1-32B)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-yellow)](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B)
@@ -281,7 +281,7 @@ If you find this work is relevant with your research or applications, please fee
 @article{wan2025qwenlongl1,
   title={QwenLong-L1: : Towards Long-Context Large Reasoning Models with Reinforcement Learning},
   author={Fanqi Wan, Weizhou Shen, Shengyi Liao, Yingcheng Shi, Chenliang Li, Ziyi Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2505.17667},
   year={2025}
 }
 ```
