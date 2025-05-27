@@ -276,6 +276,13 @@ python ${PROJ_DIR}/eval/${DATA}_verify.py \
     --batch_size 20
 ```
 
+## 🌐 Join the Community
+Chinese users can scan QR codes to join WeChat/DingTalk groups.
+
+| WeChat | DingTalk |
+|----------|---------|
+| ![Alt Text](./assets/wechat_group.JPG) | ![Alt Text](./assets/dingding_group.png) |
+
 ## 📝 Citation
 
 If you find this work is relevant with your research or applications, please feel free to cite our work!
