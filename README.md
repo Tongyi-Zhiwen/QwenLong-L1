@@ -21,7 +21,7 @@ _**Ziyi Yang, Ji Zhang, Fei Huang, Jingren Zhou, Ming Yan**_
 <!-- **Affiliations:** -->
 
 
-_Qwen-Doc Team, Alibaba Group_
+_Tongyi Lab, Alibaba Group_
 
 <p align="center">
     <img src="./assets/fig1.png" width="100%"> <br>
