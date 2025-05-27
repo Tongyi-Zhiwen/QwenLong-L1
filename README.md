@@ -281,7 +281,7 @@ Chinese users can scan QR codes to join WeChat/DingTalk groups.
 
 | WeChat | DingTalk |
 |----------|---------|
-| ![Alt Text](./assets/wechat_group.JPG) | ![Alt Text](./assets/dingding_group.png) |
+| ![Alt Text](./assets/weichat_group.png) | ![Alt Text](./assets/dingding_group.png) |
 
 ## 📝 Citation
 
