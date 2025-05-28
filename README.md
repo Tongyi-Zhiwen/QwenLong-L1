@@ -32,7 +32,9 @@ _Tongyi Lab, Alibaba Group_
 
 ## 🎉 News
 
-- **May 26, 2025:** 🔥 We release [🤗 QwenLong-L1-32B](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B), which is the first long-context LRM trained with reinforcement learniing for long-context reasoning. Experiments on seven long-context DocQA benchmarks demonstrate that **QwenLong-L1-32B outperforms flagship LRMs like OpenAI-o3-mini and Qwen3-235B-A22B, achieving performance on par with Claude-3.7-Sonnet-Thinking**, demonstrating leading performance among state-of-the-art LRMs.
+- **May 28, 2025:** 🔥 We release [🤗 QwenLong-L1-32B-AWQ](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B-AWQ), which has undergone AWQ int4 quantization using the ms-swift framework.
+
+- **May 26, 2025:** 🔥 We release [🤗 QwenLong-L1-32B](https://huggingface.co/Tongyi-Zhiwen/QwenLong-L1-32B), which is the first long-context LRM trained with reinforcement learning for long-context reasoning. Experiments on seven long-context DocQA benchmarks demonstrate that **QwenLong-L1-32B outperforms flagship LRMs like OpenAI-o3-mini and Qwen3-235B-A22B, achieving performance on par with Claude-3.7-Sonnet-Thinking**, demonstrating leading performance among state-of-the-art LRMs.
 
 - **May 26, 2025:** 🔥 We release [🤗 DocQA-RL-1.6K](https://huggingface.co/datasets/Tongyi-Zhiwen/DocQA-RL-1.6K), which is a specialized RL training dataset comprising 1.6K document question answering (DocQA) problems spanning mathematical, logical, and multi-hop reasoning domains.
 
