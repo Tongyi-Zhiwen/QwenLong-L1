@@ -342,3 +342,8 @@ If you find this work is relevant with your research or applications, please fee
   year={2025}
 }
 ```
+
+
+## ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-Zhiwen/QwenLong-L1&type=Timeline)](https://star-history.com/#Tongyi-Zhiwen/QwenLong-L1&Timeline)
