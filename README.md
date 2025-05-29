@@ -116,6 +116,7 @@ context = "<YOUR_CONTEXT_HERE>"
 question = "<YOUR_QUESTION_HERE>"
 prompt = template.replace('$DOC$', context.strip()).replace('$Q$', question.strip())
 messages = [
+    # {"role": "system", "content": "You are QwenLong-L1, created by Alibaba Tongyi Lab. You are a helpful assistant."},  # Use system prompt to define identity when needed.
     {"role": "user", "content": prompt}
 ]
 text = tokenizer.apply_chat_template(
